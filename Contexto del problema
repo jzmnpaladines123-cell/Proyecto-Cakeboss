@@ -1,16 +1,11 @@
 CONTEXTO DEL PROBLEMA:
-Actualmente, la repostería Cake Boss, a pesar de ser un negocio muy reconocido, maneja el registro y control de sus pedidos de forma manual y tradicional, utilizando cuadernos o registros físicos. Este método ha funcionado durante años,
-pero con el aumento de clientes y pedidos diarios se han presentado diversas dificultades que afectan la organización y eficiencia del negocio.
-Entre los principales problemas se encuentran la pérdida o deterioro de información, errores al anotar los datos del cliente, confusión en las fechas de entrega y dificultad para encontrar pedidos antiguos o en proceso.
-Además, el proceso depende totalmente del personal, lo que genera retrasos y una atención menos ágil al cliente.
-Debido a esta forma de trabajo, los clientes no tienen la posibilidad de registrar sus pedidos de manera directa, lo que puede provocar filas largas, errores de comunicación en la descripción del pedido y falta de un número de pedido que facilite su seguimiento.
+Actualmente, la repostería Cake Boss, a pesar de ser un negocio muy reconocido, maneja el registro y control de sus pedidos de forma manual y tradicional, 
+utilizando cuadernos o registros físicos. Este método ha funcionado durante años,pero con el aumento de clientes y pedidos diarios se han presentado diversas dificultades 
+que afectan la organización y eficiencia del negocio.
+Entre los principales problemas se encuentran la pérdida o deterioro de información, errores al anotar los datos del cliente, confusión en las fechas de entrega y dificultad 
+para encontrar pedidos antiguos o en proceso.Además, el proceso depende totalmente del personal, lo que genera retrasos y una atención menos ágil al cliente.
+Debido a esta forma de trabajo, los clientes no tienen la posibilidad de registrar sus pedidos de manera directa, lo que puede provocar filas largas, errores de comunicación en
+la descripción del pedido y falta de un número de pedido que facilite su seguimiento.
 Asimismo, los empleados no cuentan con un sistema seguro y organizado para visualizar los pedidos, ya que toda la información se encuentra dispersa en registros físicos.
-Ante esta problemática, el dueño de Cake Boss solicita una solución digital que permita modernizar el proceso de registro y visualización de pedidos, garantizando mayor orden, seguridad y eficiencia en la gestión del negocio.
-Descripción general de la aplicación
-La aplicación Cake Boss será un sistema digital diseñado para el uso de clientes y empleados, con el objetivo de optimizar el manejo de pedidos dentro de la repostería.
-Al ingresar a la aplicación, se mostrará una pantalla principal con un mensaje de bienvenida que diga “Bienvenidos a Cake Boss”, junto con dos botones claramente diferenciados:
-Registrar pedido: opción destinada exclusivamente a los clientes, donde podrán ingresar sus datos personales como nombres y apellidos completos, número de cédula, fecha en la que realizan el pedido y una descripción detallada del mismo.
-El sistema generará automáticamente un número de pedido para facilitar su identificación.
-Ver pedidos: opción restringida solo para el personal de la repostería. Para acceder, será necesario ingresar una contraseña fija, garantizando que la información sea visualizada únicamente por los empleados autorizados. 
-En esta sección se podrá consultar el número de pedido, los datos del cliente, la fecha en que se realizó el pedido, la fecha de entrega y la descripción del pedido.
-Con esta aplicación se busca reducir errores, mejorar la organización de los pedidos, agilizar la atención al cliente y brindar mayor control al personal, logrando así una gestión más moderna y eficiente para la repostería Cake Boss.
+Ante esta problemática, el dueño de Cake Boss solicita una solución digital que permita modernizar el proceso de registro y visualización de pedidos, garantizando mayor orden, 
+seguridad y eficiencia en la gestión del negocio.
