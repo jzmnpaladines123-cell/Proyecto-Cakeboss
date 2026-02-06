@@ -1,1 +1,33 @@
-
+INICIO
+   |
+Mostrar "Bienvenidos a Cake Boss"
+   |
+Mostrar Menú Principal
+   |
+¿Opción seleccionada?
+   |
+   |-- Registrar Pedido
+   |       |
+   |   Ingresar datos del cliente
+   |       |
+   |   Generar número de pedido
+   |       |
+   |   Guardar pedido
+   |       |
+   |   Mostrar mensaje de éxito
+   |       |
+   |   Volver al menú
+   |
+   |-- Ver Pedidos
+           |
+       Solicitar contraseña
+           |
+       ¿Contraseña correcta?
+           |
+         |-- NO → Mostrar error → Volver al menú
+         |
+         |-- SÍ → Mostrar lista de pedidos
+                    |
+                 Volver al menú
+   |
+FIN
