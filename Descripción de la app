@@ -1,0 +1,10 @@
+Descripción general de la aplicación
+La aplicación Cake Boss será un sistema digital diseñado para el uso de clientes y empleados, con el objetivo de optimizar el manejo de pedidos dentro de la repostería.
+Al ingresar a la aplicación, se mostrará una pantalla principal con un mensaje de bienvenida que diga “Bienvenidos a Cake Boss”, junto con dos botones claramente diferenciados:
+Registrar pedido: opción destinada exclusivamente a los clientes, donde podrán ingresar sus datos personales como nombres y apellidos completos, número de cédula, fecha en la que realizan
+el pedido y una descripción detallada del mismo.El sistema generará automáticamente un número de pedido para facilitar su identificación.
+Ver pedidos: opción restringida solo para el personal de la repostería. Para acceder, será necesario ingresar una contraseña fija, garantizando que la información sea 
+visualizada únicamente por los empleados autorizados.
+En esta sección se podrá consultar el número de pedido, los datos del cliente, la fecha en que se realizó el pedido, la fecha de entrega y la descripción del pedido.
+Con esta aplicación se busca reducir errores, mejorar la organización de los pedidos, agilizar la atención al cliente y brindar mayor control al personal,
+logrando así una gestión más moderna y eficiente para la repostería Cake Boss.
